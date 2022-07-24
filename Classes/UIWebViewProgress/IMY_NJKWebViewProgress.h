@@ -17,7 +17,7 @@
 typedef void (^IMY_NJKWebViewProgressBlock)(CGFloat progress);
 
 @protocol IMY_NJKWebViewProgressDelegate;
-@interface IMY_NJKWebViewProgress : NSObject <UIWebViewDelegate>
+@interface IMY_NJKWebViewProgress : NSObject
 
 @property (nonatomic, IMY_NJK_weak) id<IMY_NJKWebViewProgressDelegate> progressDelegate;
 @property (nonatomic, IMY_NJK_weak) id<UIWebViewDelegate> webViewProxyDelegate;

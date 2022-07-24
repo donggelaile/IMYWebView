@@ -3,17 +3,17 @@
   "version": "0.6",
   "summary": "UIWebView seamless switching to WKWebView",
   "description": "UIWebView 无缝切换成 WKWebView 并支持查看UIWebView的显示进度",
-  "homepage": "https://github.com/li6185377/IMYWebView",
+  "homepage": "https://github.com/donggelaile/IMYWebView.git",
   "license": "MIT",
   "authors": {
     "Jianghuai Li": "li6185377@163.com"
   },
   "source": {
-    "git": "https://github.com/li6185377/IMYWebView.git",
+    "git": "https://github.com/donggelaile/IMYWebView.git",
     "tag": "0.6"
   },
   "platforms": {
-    "ios": "5.0"
+    "ios": "8.0"
   },
   "source_files": "Classes/**/*.{h,m}",
   "requires_arc": true,
